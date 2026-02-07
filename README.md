@@ -19,7 +19,7 @@ Deploy da aplicação realizado via build JAR com Spring Boot.
 📚 Documentação interativa da API com Swagger, facilitando testes e entendimento das rotas disponíveis.
 
 IMPORTANTE!!!
-Não tenho o deploy dessa API, mas para facilitar, deixei o Front end no deploy, então só basta rodar a API localmente que ela já faz a conexação com o Front end
+Não tenho o deploy dessa API, mas para facilitar, deixei o Front end no deploy, então só basta rodar a API localmente que ela já faz a conexação com o Front end.
 
 https://full-stack-authentication-login-sen-theta.vercel.app/login
 
